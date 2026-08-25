@@ -1,1 +1,1 @@
-Hello World\nNote: This is an AI-generated pull request
+Hello World\nThis is my AI pull request on readme\n
