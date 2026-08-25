@@ -1,1 +1,1 @@
-Hello World\nNote: This is an AI-generated pull request
+## Deployment Instructions\n\n**Say Hello!!**\n\n- Build the project using the provided build scripts.\n- Create a container image if applicable.\n- Set required environment variables.\n- Deploy to your chosen platform (e.g., Kubernetes, Docker Swarm, cloud service).\n- Verify the deployment by accessing the service endpoint.\n
